@@ -2,10 +2,7 @@
   "servers": {
     "chrome-devtools": {
       "command": "npx",
-      "args": [
-        "chrome-devtools-mcp@latest",
-        "--executablePath C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe"
-      ]
+      "args": ["-y", "chrome-devtools-mcp@latest"]
     }
   }
 }
